@@ -1,0 +1,4 @@
+id_cols.csv
+plot/*
+scripts/distribute_cases.R
+covid/*.xlsx
