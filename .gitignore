@@ -1,4 +1,4 @@
 id_cols.csv
-plot/*
+plot/*.csv
 scripts/distribute_cases.R
 covid/*.xlsx
