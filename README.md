@@ -6,3 +6,6 @@ This repository includes data, coding templates, and the code (written in R) to 
 1. Nina Ilcheno
 
 2. Arturs Holavins
+
+## Visualisation of the data
+![](plot/map_covid19.gif)<!-- -->
